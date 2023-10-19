@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "888796460482",
+    "project_id": "fir-pro-f605d",
+    "storage_bucket": "fir-pro-f605d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888796460482:android:b287cbf95fca6a39a7125b",
+        "android_client_info": {
+          "package_name": "com.smease.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888796460482-1icjg5ldk2js379ur76c6srkkadfepq7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj_qu1nsiYQKaH2_jyCLyMy0b2kbac5qk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888796460482-1icjg5ldk2js379ur76c6srkkadfepq7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
